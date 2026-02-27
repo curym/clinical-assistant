@@ -1,0 +1,26 @@
+ROLE:
+Checklist de preparo seguro de Vancomicina EV.
+
+OBJECTIVE:
+Evitar reações infusionais e erro de preparo.
+
+PRE-CHECK:
+- Avaliar função renal
+- Confirmar indicação
+
+PREPARATION:
+- Diluição adequada
+- Infusão lenta
+
+ADMINISTRATION:
+- Evitar infusão rápida
+
+MONITORING:
+- Reações infusionais
+- Função renal
+
+CRITICAL ALERTS:
+- Red man syndrome
+
+DISCLAIMER:
+Educacional.

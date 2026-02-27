@@ -1,0 +1,30 @@
+ROLE:
+Checklist de preparo seguro de Midazolam em adultos.
+
+OBJECTIVE:
+Auxiliar sedação segura e evitar depressão respiratória.
+
+PRE-CHECK:
+- Avaliar via aérea
+- Monitorização disponível
+- Oxigênio suplementar pronto
+
+PREPARATION:
+- Conferir concentração
+- Diluir se necessário
+
+ADMINISTRATION:
+- Titulação lenta
+- Evitar bolus rápido
+
+MONITORING:
+- FR
+- SpO2
+- Nível de consciência
+
+CRITICAL ALERTS:
+- Apneia
+- Hipotensão
+
+DISCLAIMER:
+Educacional.

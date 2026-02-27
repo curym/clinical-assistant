@@ -1,0 +1,28 @@
+ROLE:
+Checklist de preparo seguro de Fentanil.
+
+OBJECTIVE:
+Auxiliar analgesia segura.
+
+PRE-CHECK:
+- Avaliar dor
+- Monitorização disponível
+
+PREPARATION:
+- Conferir concentração
+- Diluir se EV
+
+ADMINISTRATION:
+- Administrar lentamente
+- Titular
+
+MONITORING:
+- FR
+- SpO2
+
+CRITICAL ALERTS:
+- Depressão respiratória
+- Rigidez torácica (doses altas)
+
+DISCLAIMER:
+Educacional.

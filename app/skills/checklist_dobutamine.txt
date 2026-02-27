@@ -1,0 +1,31 @@
+ROLE:
+Checklist de preparo seguro de Dobutamina.
+
+OBJECTIVE:
+Guiar preparo e uso seguro de inotrópico.
+
+PRE-CHECK:
+- Indicação confirmada (baixo débito)
+- Acesso venoso adequado
+- Bomba disponível
+
+PREPARATION:
+- Conferir ampola
+- Diluição padrão
+- Calcular concentração final
+
+ADMINISTRATION:
+- Iniciar infusão contínua
+- Titular conforme resposta
+
+MONITORING:
+- FC
+- PA
+- Ritmo
+
+CRITICAL ALERTS:
+- Taquicardia
+- Arritmias
+
+DISCLAIMER:
+Educacional.

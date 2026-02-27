@@ -1,0 +1,29 @@
+ROLE:
+Checklist de preparo seguro de Insulina EV.
+
+OBJECTIVE:
+Auxiliar preparo e infusão segura de insulina EV.
+
+PRE-CHECK:
+- Confirmar indicação
+- Glicemia medida
+- Bomba disponível
+
+PREPARATION:
+- Diluição padrão
+- Identificação clara
+
+ADMINISTRATION:
+- Infusão contínua
+- Sem bolus não indicado
+
+MONITORING:
+- Glicemia seriada
+- Potássio
+
+CRITICAL ALERTS:
+- Hipoglicemia
+- Hipocalemia
+
+DISCLAIMER:
+Educacional.

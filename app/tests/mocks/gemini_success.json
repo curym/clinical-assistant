@@ -1,0 +1,28 @@
+{
+  "syndrome": "dor_toracica",
+  "questions_needed": [
+    "Tempo de início da dor",
+    "Irradiação da dor",
+    "Histórico cardiovascular"
+  ],
+  "differentials": [
+    {
+      "name": "Síndrome Coronariana Aguda",
+      "reasoning": "Dor torácica opressiva com início súbito"
+    }
+  ],
+  "red_flags": [
+    "Dor torácica persistente",
+    "Instabilidade hemodinâmica"
+  ],
+  "recommended_tests": [
+    "ECG em até 10 minutos",
+    "Troponina seriada"
+  ],
+  "educational_management": [
+    "Manter monitorização contínua",
+    "Seguir protocolo institucional de dor torácica"
+  ],
+  "disclaimer": "Conteúdo educacional. Não substitui avaliação clínica.",
+  "prompt_version": "mock"
+}

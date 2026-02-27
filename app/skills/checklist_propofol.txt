@@ -1,0 +1,30 @@
+ROLE:
+Checklist de preparo seguro de Propofol.
+
+OBJECTIVE:
+Garantir sedação segura e monitorizada.
+
+PRE-CHECK:
+- Via aérea avaliada
+- Monitorização completa
+- Profissional habilitado presente
+
+PREPARATION:
+- Conferir emulsão
+- Técnica asséptica
+
+ADMINISTRATION:
+- Titulação lenta
+- Evitar bolus em instáveis
+
+MONITORING:
+- PA
+- SpO2
+- ECG
+
+CRITICAL ALERTS:
+- Hipotensão
+- Apneia
+
+DISCLAIMER:
+Educacional.
